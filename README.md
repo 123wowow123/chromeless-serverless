@@ -1,7 +1,7 @@
 # EndPoints
 
-- [GET: chronoScrape](https://dq4ft6tuyk.execute-api.us-west-2.amazonaws.com/dev/prerender/chronoScrape)
-- [GET: hello](https://dq4ft6tuyk.execute-api.us-west-2.amazonaws.com/dev/prerender/hello)
+- [GET: chronoScrape](https://f4smyj93sl.execute-api.us-west-2.amazonaws.com/dev/prerender/chronoScrape)
+- [GET: hello](https://f4smyj93sl.execute-api.us-west-2.amazonaws.com/dev/prerender/hello)
 
 - [Serverless Platform Guide](https://platform.serverless.com/services/123wowow123/prerender-chromeless)
 
