@@ -1,5 +1,7 @@
 'use strict';
 
+// Testing for future hook not currently used
+
 module.exports.hello = (event, context, callback) => {
   const response = {
     statusCode: 200,
